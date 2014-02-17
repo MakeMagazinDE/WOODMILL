@@ -1,10 +1,10 @@
 #c't Hacks Holzfräse
 
-###Einfach aufzubauende, CNC-gesteuerte Portalfräse aus Holz- und Fertigbauteilen
+**Einfach aufzubauende, CNC-gesteuerte Portalfräse aus Holz- und Fertigbauteilen**
 
 Zum Ansehen der PDFs "View raw" anklicken und downloaden. Bitte beachten Sie unbedingt den Artikel in **[c't Hacks 1/2014](http://heise.de/-2109420)**.
 
-**CNC-Portalfräse aus Multiplex-Sperrholz. Pläne aus technischen Gründen erst ab Montag, 17.02.2014 online**
+Pläne aus technischen Gründen erst ab Montag, 17.02.2014 online
 
 
 ###Stückliste Holzzuschnitt
