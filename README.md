@@ -35,7 +35,8 @@ Wenn nicht anders angegeben, 18 mm Multiplex Buche oder Birke
 * 4 Maschinenschrauben Innensechskant M6 x 30 (Befestigung Z-Achse)
 * 12 Maschinenschrauben Innensechskant M5 x 16 (Schrittmotor-Befestigung)
 * 16 Maschinenschrauben Innensechskant M5 x 25 (Linearlager-Befestigung Z-Schlitten)
-* div. Unterlegscheiben, Muttern M5 und M6, Kleinteile
+* div. Unterlegscheiben, Muttern M5 und M6, Spax/Universalschrauben, Kleinteile, vom Baumarkt
 * 1 CNC Set 20 x 1000mm breit, z.B. von [CNC-Discount, Ebay-Shop](http://www.cnc-discount.de) oder in Einzelteilen von [Dold Mechatronik](http://www.dold-mechatronik.de)
 * 1 CNC Set 16 x 600mm schmal, z.B. von [CNC-Discount, Ebay-Shop](http://www.cnc-discount.de) oder in Einzelteilen von [Dold Mechatronik](http://www.dold-mechatronik.de)
 * 1 Z-Achse, fertig aufgebaut, Ebay-Angebot Fa. Anton Schelkopf electronic
+
