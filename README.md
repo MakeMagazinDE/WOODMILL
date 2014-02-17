@@ -26,6 +26,7 @@ Wenn nicht anders angegeben, 18 mm Multiplex Buche oder Birke
 * 3 Schrittmotoren NEMA 23, min. 1,5 A Strangstrom
 * 2 Zahnriemenscheiben 16 Zähne, z.B. Ebay-Anbieter für RepRap-Zubehör
 * 5 m Zahnriemen T2,5 x 6 mm, z.B. Ebay-Anbieter für RepRap-Zubehör
+* 1 Wellenkupplung 6,35/8 mm flexibel, z.B. von [CNC-Discount](http://www.cnc-discount.de/epages/62924595.sf/de_DE/?ObjectPath=/Shops/62924595/Products/%225NM%20%22%22klein%22%22%20%206%2C35%20/%208mm%22) oder [Dold Mechatronik](http://www.dold-mechatronik.de/Wellenkupplung-RB-flexibel-D20L25-635-800mm)
 * 10 Kugellager 636-2RS (6 x 22 x 6 mm) z.B. von [Kugellager-Express](http://www.kugellager-express.de/Miniatur-Kugellager-/Miniatur-Kugellager-6--/-Miniatur-Kugellager---636---636z---636rs---6x22x7-mm.html)
 * 20 Karosseriescheiben M6, Durchmesser 25 mm
 * 20 Unterlegscheiben M6 dünn, oder Passscheiben 0,2 mm
@@ -34,7 +35,7 @@ Wenn nicht anders angegeben, 18 mm Multiplex Buche oder Birke
 * 4 Maschinenschrauben Innensechskant M6 x 30 (Befestigung Z-Achse)
 * 12 Maschinenschrauben Innensechskant M5 x 16 (Schrittmotor-Befestigung)
 * 16 Maschinenschrauben Innensechskant M5 x 25 (Linearlager-Befestigung Z-Schlitten)
-* Unterlegscheiben, Muttern M5 und M6, Kleinteile
-* CNC Set 20 x 1000mm breit, z.B. von [CNC-Discount, Ebay-Shop](http://www.cnc-discount.de)
-* CNC Set 16 x 600mm schmal, z.B. von [CNC-Discount, Ebay-Shop](http://www.cnc-discount.de)
-* Z-Achse, fertig aufgebaut, Ebay-Angebot Fa. Anton Schelkopf electronic
+* div. Unterlegscheiben, Muttern M5 und M6, Kleinteile
+* 1 CNC Set 20 x 1000mm breit, z.B. von [CNC-Discount, Ebay-Shop](http://www.cnc-discount.de) oder in Einzelteilen von [Dold Mechatronik](http://www.dold-mechatronik.de)
+* 1 CNC Set 16 x 600mm schmal, z.B. von [CNC-Discount, Ebay-Shop](http://www.cnc-discount.de) oder in Einzelteilen von [Dold Mechatronik](http://www.dold-mechatronik.de)
+* 1 Z-Achse, fertig aufgebaut, Ebay-Angebot Fa. Anton Schelkopf electronic
