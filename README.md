@@ -4,7 +4,7 @@
 
 **CNC-Portalfräse aus Multiplex-Sperrholz**
 
-##Stückliste Holzzuschnitt
+###Stückliste Holzzuschnitt
 
 Wenn nicht anders angegeben, 18 mm Multiplex Buche oder Birke
 
@@ -16,13 +16,12 @@ Wenn nicht anders angegeben, 18 mm Multiplex Buche oder Birke
 * 1 Stück 220 x 200 mm (Z-Trägerplatte senkrecht)
 * 1 Stück 210 x 200 mm (Z-Trägerplatte waagerecht)
 * 2 Stück 170 x 140 mm (Z-Trägerplatte Versteifungen)
-
-* Motorhalterung X-Achse aus Resten, oder
+* Motorhalterung X-Achse aus Multiplex-Resten, oder
 * 2 Stück 100 x 60 mm
 * 2 Stück 64 x 60 mm
 * 1 Stück 100 x 100 mm Hartfaserplatte 4 oder 5 mm
 
-##Stückliste Mechanik
+###Stückliste Mechanik
 
 * 3 Schrittmotoren NEMA 23, min. 1,5 A Strangstrom
 * 2 Zahnriemenscheiben 16 Zähne, z.B. Ebay-Anbieter für RepRap-Zubehör
