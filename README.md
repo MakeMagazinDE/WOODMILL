@@ -1,6 +1,6 @@
 #c't Hacks Holzfräse
 
-**Pläne aus technischen Gründen erst ab Montag, 17.02.2014 online
+**Pläne aus technischen Gründen erst ab Montag, 17.02.2014 online**
 
 **CNC-Portalfräse aus Multiplex-Sperrholz**
 
@@ -17,7 +17,7 @@ Wenn nicht anders angegeben, 18 mm Multiplex Buche oder Birke
 * 1 Stück 210 x 200 mm (Z-Trägerplatte waagerecht)
 * 2 Stück 170 x 140 mm (Z-Trägerplatte Versteifungen)
 
-* Motorhalterung X-Achse aus Resten oder 
+* Motorhalterung X-Achse aus Resten oder
 * 2 Stück 100 x 60 mm
 * 2 Stück 64 x 60 mm
 * 1 Stück 100 x 100 mm Hartfaserplatte 4 oder 5 mm
