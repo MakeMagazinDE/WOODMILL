@@ -17,9 +17,9 @@ Wenn nicht anders angegeben, 18 mm Multiplex Buche oder Birke
 * 1 Stück 210 x 200 mm (Z-Trägerplatte waagerecht)
 * 2 Stück 170 x 140 mm (Z-Trägerplatte Versteifungen)
 * Motorhalterung X-Achse aus Multiplex-Resten, oder
-* 2 Stück 100 x 60 mm
-* 2 Stück 64 x 60 mm
-* 1 Stück 100 x 100 mm Hartfaserplatte 4 oder 5 mm
+* * 2 Stück 100 x 60 mm
+* * 2 Stück 64 x 60 mm
+* * 1 Stück 100 x 100 mm Hartfaserplatte 4 oder 5 mm
 
 ###Stückliste Mechanik
 
