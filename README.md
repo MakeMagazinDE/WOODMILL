@@ -2,9 +2,7 @@
 
 **Einfach aufzubauende, CNC-gesteuerte Portalfräse aus Holz- und Fertigbauteilen**
 
-Zum Ansehen der PDFs "View raw" anklicken und downloaden. Bitte beachten Sie unbedingt den Artikel in **[c't Hacks 1/2014](http://heise.de/-2109420)**.
-
-Pläne aus technischen Gründen erst ab Montag, 17.02.2014 online
+Zum Download der DesignSpark-Pläne "View raw" anklicken. Sie benötigen zur Weiterverarbeitung das kostenlose DesignSpark Mechanical. Sketchup-File ist ein Export aus DesignSpark, kann Ungenauigkeiten enthalten. Bitte beachten Sie unbedingt den Artikel in **[c't Hacks 1/2014](http://heise.de/-2109420)**.
 
 
 ###Stückliste Holzzuschnitt
