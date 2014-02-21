@@ -3,5 +3,7 @@
 
 Pläne als PDF und für **[DesignSpark Mechanical](http://www.designspark.com/deu/page/mechanical)**
 
-Aus technischen Gründen erst ab Montag, 17.02.2014 online
+Bemaßung aus DesignSpark-Plan ersichtlich (Beschriftungsebenen einblenden!)
+
+Aus technischen Gründen PDFs erst später online
 
