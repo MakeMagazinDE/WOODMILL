@@ -49,3 +49,12 @@ Erhöhung) durch die preiswerten DryLin-Gleitschienen Typ N in 27 und 40 mm Breit
 [Igus](http://www.igus.de/wpck/1969/drylin_n) zu ersetzen (CAD-Daten anbei). Hierbei ist aber auf einen stabilen, 
 verwindungssteifen Unterbau der Fräse zu achten, da diese Gleitschienen im Unterschied zu den Stahlwellen weniger steif 
 sind.
+
+Das CNC-Steuerungsprogramm GRBLize aus c't Hacks 4/2014 finden Sie im Verzeichnis GRBLSEND.
+
+Bitte beachten Sie, dass bei einigen chinesischen Schrittmotortreibern die Belegungen der XYZ-Step/Direction-Pins 
+vertauscht sind. Auf der GRBL- Jogger-Platine sind dann die Leiterbahnen unter den Pfostenleisten PL9 und 10 
+aufzutrennen und die Verbindungen mit Jumper-Kabeln in der richtigen Reihenfolge herzustellen. Anleitungen zu 
+verschiedenen Treiberkarten finden Sie in unserem Github-Repository TB6560-BOARDS.
+
+Carsten Meyer, Redaktion c't Hacks, Make Deutschland (cm@ct.de)
