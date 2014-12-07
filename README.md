@@ -41,3 +41,11 @@ Wenn nicht anders angegeben, 18 mm Multiplex Buche oder Birke
 * 1 CNC Set 16 x 600mm schmal, z.B. von [CNC-Discount, Ebay-Shop](http://www.cnc-discount.de) oder in Einzelteilen von [Dold Mechatronik](http://www.dold-mechatronik.de)
 * 1 Z-Achse, fertig aufgebaut, Ebay-Angebot Fa. Anton Schelkopf electronic
 
+Pläne als PDF und für **[DesignSpark Mechanical](http://www.designspark.com/deu/page/mechanical)** gepackt als ZIP. 
+Bemaßung aus editierbarem DesignSpark-Entwurf ersichtlich (Beschriftungsebenen einblenden!)
+
+Es ist möglich, die recht teuren Kugelwagen-Linearführungen mit leichten Modifikationen (zusätzliche Brettchen zur 
+Erhöhung) durch die preiswerten DryLin-Gleitschienen Typ N in 27 und 40 mm Breite von 
+[Igus](http://www.igus.de/wpck/1969/drylin_n) zu ersetzen (CAD-Daten anbei). Hierbei ist aber auf einen stabilen, 
+verwindungssteifen Unterbau der Fräse zu achten, da diese Gleitschienen im Unterschied zu den Stahlwellen weniger steif 
+sind.
