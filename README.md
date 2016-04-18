@@ -70,12 +70,12 @@ vertauscht sind. Auf der GRBL-JOG-Platine sind dann die Leiterbahnen unter den P
 aufzutrennen und die Verbindungen mit Jumper-Kabeln in der richtigen Reihenfolge herzustellen. Anleitungen zu 
 verschiedenen Treiberkarten finden Sie in unserem Github-Repository TB6560-BOARDS.
 
-Die Schrittmotor-Endstufen mit TB6560 und TB6600 benötigen eine kurze Verzögerungszeit zwischen Umschalten der Richtung und dem ersten Schritt-Impuls, ansonsten können Schritte verlorengehen. Unbedingt in CONFIG.h der GRBL-Sourcen die Zeile
+Die Schrittmotor-Endstufen mit TB6560 und TB6600 benötigen eine kurze Verzögerungszeit zwischen Umschalten der Richtung und dem ersten Schritt-Impuls, ansonsten können Schritte verlorengehen. Unbedingt in config.h der GRBL-Sourcen die Zeile
 
  #define STEP_PULSE_DELAY 10 // Step pulse delay in microseconds. Default disabled.
 
 aktivieren und GRBL neu kompilieren, wenn Sie nicht die kompilierte HEX-File aus dem beigefügten GRBL_arduino.ZIP verwenden.
 
-Das CNC-Steuerungsprogramm aus c't Hacks 4/2014 finden Sie im Verzeichnis GRBLize.
+Das CNC-Steuerungsprogramm aus c't Hacks 4/2014 finden Sie in unserem Github-Repo **[GRBLize](https://github.com/heise/GRBLize)**.
 
 Carsten Meyer, Redaktion c't Hacks, Make Deutschland (cm@ct.de)
