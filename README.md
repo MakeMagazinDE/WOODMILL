@@ -4,6 +4,7 @@
 
 Zum Download der DesignSpark-Pläne "View raw" anklicken. Sie benötigen zur Weiterverarbeitung das kostenlose **[DesignSpark Mechanical](http://www.designspark.com/deu/page/mechanical)**. Sketchup-File ist ein Export aus DesignSpark, kann Ungenauigkeiten enthalten. Bitte beachten Sie unbedingt den Artikel in **[c't Hacks 1/2014](http://heise.de/-2109420)**.
 
+Das aus Designspark Mechanical exportierte PDF enthält keine Bemaßungen. Zur Anzeige ist ein neuerer Acrobat Reader mit aktivierter 3D-Ansicht erforderlich. 
 
 ###Stückliste Holzzuschnitt
 
@@ -25,7 +26,7 @@ Wenn nicht anders angegeben, 18 mm Multiplex Buche oder Birke
 ###Stückliste Mechanik
 
 * 3 Schrittmotoren NEMA 23, min. 1,5 A Strangstrom
-* 2 Zahnriemenscheiben 16 Zähne, z.B. Ebay-Anbieter für RepRap-Zubehör
+* 2 Zahnriemenscheiben 16 Zähne, z.B. Ebay-Anbieter für RepRap-Zubehör; ggf. aufbohren auf Achsdurchmesser!
 * 5 m Zahnriemen T2,5 x 6 mm, Stahl-Zugstrang, Meterware, z.B. Ebay-Anbieter für RepRap-Zubehör
 * 1 Wellenkupplung 6,35/8 mm flexibel, z.B. von [CNC-Discount](http://www.cnc-discount.de/epages/62924595.sf/de_DE/?ObjectPath=/Shops/62924595/Products/%225NM%20%22%22klein%22%22%20%206%2C35%20/%208mm%22) oder [Dold Mechatronik](http://www.dold-mechatronik.de/Wellenkupplung-RB-flexibel-D20L25-635-800mm)
 * 10 Kugellager 636-2RS (6 x 22 x 6 mm) z.B. von [Kugellager-Express](http://www.kugellager-express.de/Miniatur-Kugellager-/Miniatur-Kugellager-6--/-Miniatur-Kugellager---636---636z---636rs---6x22x7-mm.html)
@@ -50,7 +51,7 @@ Erhöhung) durch die preiswerten DryLin-Gleitschienen Typ N in 27 und 40 mm Breit
 verwindungssteifen Unterbau der Fräse zu achten, da diese Gleitschienen im Unterschied zu den Stahlwellen weniger steif 
 sind.
 
-Das CNC-Steuerungsprogramm GRBLize aus c't Hacks 4/2014 finden Sie im Verzeichnis GRBLSEND.
+Das CNC-Steuerungsprogramm aus c't Hacks 4/2014 finden Sie im Verzeichnis GRBLize.
 
 Bitte beachten Sie, dass bei einigen chinesischen Schrittmotortreibern die Belegungen der XYZ-Step/Direction-Pins 
 vertauscht sind. Auf der GRBL- Jogger-Platine sind dann die Leiterbahnen unter den Pfostenleisten PL9 und 10 
