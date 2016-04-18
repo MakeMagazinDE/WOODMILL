@@ -14,6 +14,8 @@ Das aus Designspark Mechanical exportierte PDF enthält keine Bemaßungen. Zur Anz
 
 Die Make: Sperrholzfräse wurde in der **[Dingfabrik Köln](http://dingfabrik.de/)** in größerer Stückzahl mit gutem Erfolg nachgebaut und auch in einigen Punkten verbessert. Nähere Informationen unter **http://www.cnc14.de/**
 
+
+
 ###Stückliste Holzzuschnitt
 
 Wenn nicht anders angegeben, 18 mm Multiplex Buche oder Birke
@@ -59,11 +61,21 @@ Erhöhung) durch die preiswerten DryLin-Gleitschienen Typ N in 27 und 40 mm Breit
 verwindungssteifen Unterbau der Fräse zu achten, da diese Gleitschienen im Unterschied zu den Stahlwellen weniger steif 
 sind.
 
-Das CNC-Steuerungsprogramm aus c't Hacks 4/2014 finden Sie im Verzeichnis GRBLize.
+###Wichtige Hinweise zu GRBL
+
+Wir empfehlen zur Ansteuerung **GRBL 0.9j** für Arduino (angepasstes HEX-File samt Sourcen in **GRBL_arduino.ZIP** enthalten) oder unsere speziell angepasste **GRBL-JOG**-Platine.
 
 Bitte beachten Sie, dass bei einigen chinesischen Schrittmotortreibern die Belegungen der XYZ-Step/Direction-Pins 
-vertauscht sind. Auf der GRBL- Jogger-Platine sind dann die Leiterbahnen unter den Pfostenleisten PL9 und 10 
+vertauscht sind. Auf der GRBL-JOG-Platine sind dann die Leiterbahnen unter den Pfostenleisten PL9 und 10 
 aufzutrennen und die Verbindungen mit Jumper-Kabeln in der richtigen Reihenfolge herzustellen. Anleitungen zu 
 verschiedenen Treiberkarten finden Sie in unserem Github-Repository TB6560-BOARDS.
+
+Die Schrittmotor-Endstufen mit TB6560 und TB6600 benötigen eine kurze Verzögerungszeit zwischen Umschalten der Richtung und dem ersten Schritt-Impuls, ansonsten können Schritte verlorengehen. Unbedingt in CONFIG.h der GRBL-Sourcen die Zeile
+
+ #define STEP_PULSE_DELAY 10 // Step pulse delay in microseconds. Default disabled.
+
+aktivieren und GRBL neu kompilieren, wenn Sie nicht die kompilierte HEX-File aus dem beigefügten GRBL_arduino.ZIP verwenden.
+
+Das CNC-Steuerungsprogramm aus c't Hacks 4/2014 finden Sie im Verzeichnis GRBLize.
 
 Carsten Meyer, Redaktion c't Hacks, Make Deutschland (cm@ct.de)
