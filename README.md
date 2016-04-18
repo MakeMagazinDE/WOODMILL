@@ -12,7 +12,7 @@ Zum Download der DesignSpark-Pläne "View raw" anklicken. Sie benötigen zur Weite
 
 Das aus Designspark Mechanical exportierte PDF enthält keine Bemaßungen. Zur Anzeige ist ein neuerer Acrobat Reader mit aktivierter 3D-Ansicht erforderlich. 
 
-Die Make: Sperrholzfräse wurde in der [Dingfabrik Köln](http://dingfabrik.de/) in größerer Stückzahl mit gutem Erfolg nachgebaut und auch in einigen Punkten verbessert. Nähere Informationen unter **http://www.cnc14.de/**
+Die Make: Sperrholzfräse wurde in der **[Dingfabrik Köln](http://dingfabrik.de/)** in größerer Stückzahl mit gutem Erfolg nachgebaut und auch in einigen Punkten verbessert. Nähere Informationen unter **http://www.cnc14.de/**
 
 ###Stückliste Holzzuschnitt
 
