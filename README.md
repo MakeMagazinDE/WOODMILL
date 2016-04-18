@@ -1,10 +1,18 @@
-#c't Hacks Holzfräse
+![GitHub Logo](http://www.heise.de/make/icons/make_logo.png)
 
-**Einfach aufzubauende, CNC-gesteuerte Portalfräse aus Holz- und Fertigbauteilen**
+Maker Media GmbH und c't, Heise Zeitschriften Verlag
+
+***
+
+#c't Hacks & Make: Sperrholzfräse
+
+###Einfach aufzubauende, CNC-gesteuerte Portalfräse aus Holz- und Fertigbauteilen
 
 Zum Download der DesignSpark-Pläne "View raw" anklicken. Sie benötigen zur Weiterverarbeitung das kostenlose **[DesignSpark Mechanical](http://www.designspark.com/deu/page/mechanical)**. Sketchup-File ist ein Export aus DesignSpark, kann Ungenauigkeiten enthalten. Bitte beachten Sie unbedingt den Artikel in **[c't Hacks 1/2014](http://heise.de/-2109420)**.
 
 Das aus Designspark Mechanical exportierte PDF enthält keine Bemaßungen. Zur Anzeige ist ein neuerer Acrobat Reader mit aktivierter 3D-Ansicht erforderlich. 
+
+Die Make: Sperrholzfräse wurde in der [Dingfabrik Köln](http://dingfabrik.de/) in größerer Stückzahl mit gutem Erfolg nachgebaut und auch in einigen Punkten verbessert. Nähere Informationen unter **http://www.cnc14.de/**
 
 ###Stückliste Holzzuschnitt
 
